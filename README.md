@@ -5,4 +5,4 @@ gta-vi
 
 This is a Vite + React project scaffolded using `npx create-vite@latest . --template react`.
 
- NOTE = SET SCRREN ZOOM SIZE TO 150% IN LAPTOP
+ NOTE = SET SCRREN ZOOM SIZE TO 110% IN LAPTOP
